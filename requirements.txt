@@ -1,0 +1,19 @@
+streamlit
+python-dotenv
+# Document parsing
+python-docx
+python-pptx
+PyMuPDF==1.23.7
+pandas
+pytesseract
+Pillow
+
+# Vector Search
+faiss-cpu
+sentence-transformers
+
+
+# LangChain + Google Gemini
+langchain
+langchain-google-genai
+google-generativeai
