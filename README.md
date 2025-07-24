@@ -62,7 +62,8 @@ An AI-powered multi-turn document QA chatbot that supports PDF, DOCX, PPTX, CSV,
    streamlit run app.py
    ```
 
-## 🧩 How It Works
+## 🧩  Workflow & How It Works
+<img width="1366" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/665c1627-2867-4332-bc2e-5ce66b7c4376" />
 
 1. **Ingestion Agent**: Parses and preprocesses uploaded documents, splitting them into text chunks.
 2. **Retrieval Agent**: Builds a FAISS index and retrieves the most relevant chunks for a user query.
